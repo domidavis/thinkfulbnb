@@ -124,7 +124,7 @@ footer p {
 }
 
 /* -------  Media Query ------- */
-@media all and (min-width: 48``0px) {
+@media all and (min-width: 800px) {
 
   .logo {
     font-size: 36px;
